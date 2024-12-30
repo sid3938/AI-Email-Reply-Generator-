@@ -3,6 +3,8 @@ import sqlite3
 import datetime
 
 # Initialize OpenAI API Key
+# Set your OpenAI API key
+# As this API key is exposed on GitHub so Replace it with your actual key before running the script.
 openai.api_key = "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"
 
 # Database setup
